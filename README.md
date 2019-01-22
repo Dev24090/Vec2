@@ -3,7 +3,7 @@ Basic JavaScript vector class to get you started. (Very useful for 2D games).
 
 Usage:
 
-```
+```javascript
 const myVector = new Vec2(12, 20);
 
 myVector.add(5, 2); // x: 17, y: 22
