@@ -3,6 +3,7 @@ Basic JavaScript vector class to get you started. (Very useful for 2D games).
 
 Usage:
 
+```
 const myVector = new Vec2(12, 20);
 
 myVector.add(5, 2); // x: 17, y: 22
@@ -14,5 +15,6 @@ myVector.copy().div(2, 11); // vector is unchanged
 myVector.sub(5).add(0, 5); // x: 29, y: 49
 
 myvector.mult(2, 10); // x: 58, y: 490
+```
 
 Yep... That's all there is to it folks.
