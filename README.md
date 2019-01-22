@@ -1,7 +1,7 @@
 # Vec2
 Basic JavaScript vector class to get you started. (Very useful for 2D games).
 
-Usage:
+**Usage:**
 
 ```javascript
 const myVector = new Vec2(12, 20);
